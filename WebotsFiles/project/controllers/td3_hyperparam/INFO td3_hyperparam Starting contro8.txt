@@ -1,0 +1,9 @@
+Value (mean reward): 15.328283666666666
+Params:
+  learning_rate: 9.863733967496139e-05
+  gamma: 0.9739857825307743
+  tau: 0.041093514231958325
+  batch_size: 256
+  buffer_size: 300000
+  policy_delay: 3
+  action_noise_std: 0.256310220872838

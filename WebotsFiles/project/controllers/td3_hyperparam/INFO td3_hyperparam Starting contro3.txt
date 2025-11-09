@@ -1,0 +1,1294 @@
+INFO: td3_hyperparam: Starting controller: python.exe -u td3_hyperparam.py
+Gym has been unmaintained since 2022 and does not support NumPy 2.0 amongst other critical functionality.
+Please upgrade to Gymnasium, the maintained drop-in replacement of Gym, or contact the authors of your software and request that they upgrade.
+Users of this version of Gym should be able to simply replace 'import gym' with 'import gymnasium as gym' in the vast majority of cases.
+See the migration guide at https://gymnasium.farama.org/introduction/migration_guide/ for additional information.
+[I 2025-10-31 15:24:41,084] A new study created in memory with name: no-name-1ce1915b-ec88-48be-98b4-b10558275335
+New goal position: [ 1.5146646 -1.0571554]
+Collision detected
+New goal position: [-0.80167854 -1.7268463 ]
+Collision detected
+New goal position: [-0.90291595  1.7825958 ]
+Collision detected
+New goal position: [ 0.40146366 -1.5043468 ]
+Collision detected
+New goal position: [-0.42414862 -1.4953424 ]
+Collision detected
+New goal position: [-1.1115799  1.4920356]
+Collision detected
+New goal position: [ 0.44364187 -1.7417943 ]
+Collision detected
+New goal position: [1.646852   0.99729353]
+Reached goal!
+New goal position: [-1.6468047   0.91990215]
+New goal position: [ 0.44693485 -1.785317  ]
+New goal position: [1.8258537  0.11042114]
+Reached goal!
+New goal position: [-0.10304882  1.637922  ]
+New goal position: [-0.89952123  1.6013658 ]
+Collision detected
+New goal position: [1.4894507 1.1577542]
+Reached goal!
+New goal position: [ 1.7259082  -0.92305547]
+Collision detected
+New goal position: [-1.8519398  -0.07004698]
+Reached goal!
+New goal position: [0.77088094 1.6788107 ]
+Collision detected
+New goal position: [ 1.5904553  -0.08529402]
+Reached goal!
+New goal position: [-0.3655242  1.7184385]
+Collision detected
+New goal position: [-0.8384777 -1.3171695]
+Collision detected
+New goal position: [1.9552244  0.00253099]
+Reached goal!
+New goal position: [-0.8692526  1.3635387]
+Collision detected
+New goal position: [0.15045288 1.9299119 ]
+Collision detected
+New goal position: [1.728367   0.33285388]
+Reached goal!
+New goal position: [ 0.07166906 -1.9759573 ]
+Collision detected
+New goal position: [1.3268964  0.71133924]
+Reached goal!
+New goal position: [ 1.4389931  -0.74168354]
+Collision detected
+New goal position: [ 0.8708864 -1.5493445]
+New goal position: [ 1.8214587  -0.60713375]
+Collision detected
+New goal position: [1.7799699  0.13682173]
+Reached goal!
+New goal position: [-1.3977209  -0.93717706]
+Reached goal!
+New goal position: [-0.9674712 -1.2350417]
+Collision detected
+New goal position: [ 1.5048558 -0.9062626]
+Collision detected
+New goal position: [-1.5143306  -0.10293137]
+Reached goal!
+New goal position: [1.7455256 0.5994729]
+Reached goal!
+New goal position: [ 1.5086265 -1.3073735]
+Collision detected
+New goal position: [-1.1821139  1.017356 ]
+Collision detected
+New goal position: [1.4944152 1.1751668]
+Reached goal!
+New goal position: [ 0.07088052 -1.865506  ]
+Reached goal!
+New goal position: [1.5472109 1.069095 ]
+Collision detected
+New goal position: [-0.05630866 -1.7464235 ]
+Collision detected
+New goal position: [-1.7049613 -0.8908414]
+Reached goal!
+New goal position: [-1.7043369 -0.8347398]
+Reached goal!
+New goal position: [-1.5699538  -0.09203206]
+Reached goal!
+New goal position: [ 0.8228342 -1.4932386]
+Reached goal!
+New goal position: [ 1.821252 -0.382809]
+New goal position: [-1.8225996  -0.02136244]
+Reached goal!
+New goal position: [ 0.8059177 -1.7112341]
+Reached goal!
+New goal position: [0.43115836 1.8328824 ]
+Collision detected
+New goal position: [-1.6502703 -0.6357039]
+Reached goal!
+New goal position: [-1.0237225 -1.6464851]
+Collision detected
+New goal position: [1.4579703 1.0395523]
+Reached goal!
+New goal position: [-0.36856997  1.5065882 ]
+Collision detected
+New goal position: [1.5625936 1.222848 ]
+Collision detected
+New goal position: [1.6054223  0.94778115]
+Reached goal!
+New goal position: [ 1.1875916 -1.4724098]
+Collision detected
+New goal position: [-0.37584272  1.7264875 ]
+Collision detected
+New goal position: [1.3738198 0.9732338]
+Collision detected
+New goal position: [1.5222156 0.8297839]
+Reached goal!
+New goal position: [-1.7917382  0.3652685]
+Reached goal!
+New goal position: [0.6828257 1.6152511]
+Collision detected
+New goal position: [-0.90661836  1.2203213 ]
+Collision detected
+New goal position: [-0.24075122  1.920683  ]
+Collision detected
+New goal position: [-1.3599501   0.67214465]
+Collision detected
+New goal position: [-0.7965351  1.2807895]
+Reached goal!
+New goal position: [-1.580653  -0.7563293]
+Reached goal!
+New goal position: [ 1.2520716 -0.9458362]
+New goal position: [-1.5058117  -0.25814754]
+Reached goal!
+New goal position: [ 0.05152526 -1.5144773 ]
+Reached goal!
+New goal position: [1.2671697 1.0098733]
+Collision detected
+New goal position: [ 0.5311982 -1.738864 ]
+[I 2025-10-31 15:36:16,665] Trial 0 finished with value: 11.960747 and parameters: {'learning_rate': 0.0006483312862524853, 'gamma': 0.9717009800669282, 'tau': 0.04680250938424557, 'batch_size': 256, 'buffer_size': 300000, 'policy_delay': 1, 'action_noise_std': 0.18449280747014618}. Best is trial 0 with value: 11.960747.
+New goal position: [1.0835025 1.1748809]
+Collision detected
+New goal position: [ 1.4619427 -0.6091349]
+Collision detected
+New goal position: [-1.9514235  -0.08581053]
+Collision detected
+New goal position: [-0.8199323  1.7462599]
+Collision detected
+New goal position: [1.481226  1.2770028]
+Collision detected
+New goal position: [-1.9345435   0.01458528]
+Collision detected
+New goal position: [ 1.5695643 -1.0288113]
+Reached goal!
+New goal position: [ 1.2050028 -1.1772989]
+Collision detected
+New goal position: [-1.5052953  0.787328 ]
+Collision detected
+New goal position: [-0.02593231  1.656109  ]
+Collision detected
+New goal position: [-0.90783614  1.5439272 ]
+Collision detected
+New goal position: [0.40333155 1.6636654 ]
+Collision detected
+New goal position: [-1.4125775  1.0363204]
+Collision detected
+New goal position: [ 1.9140106  -0.49737242]
+Reached goal!
+New goal position: [-0.41188964  1.8953044 ]
+Collision detected
+New goal position: [1.386337  1.1933045]
+Collision detected
+New goal position: [-1.1025311  1.299672 ]
+New goal position: [ 0.6723656 -1.3724267]
+Collision detected
+New goal position: [-0.90637016 -1.333102  ]
+Collision detected
+New goal position: [-0.21711834  1.9304641 ]
+Collision detected
+New goal position: [-0.74393827 -1.6192251 ]
+Collision detected
+New goal position: [-0.72037107 -1.5762444 ]
+Collision detected
+New goal position: [ 1.8016359 -0.4592081]
+Reached goal!
+New goal position: [-0.3960901  1.5499551]
+Collision detected
+New goal position: [1.6286424  0.92217016]
+Collision detected
+New goal position: [-1.6260281  -0.33009443]
+Reached goal!
+New goal position: [-1.2202922  1.2651812]
+Collision detected
+New goal position: [-0.4345258 -1.7124212]
+Collision detected
+New goal position: [-0.364027  1.867827]
+Collision detected
+New goal position: [-0.62225205 -1.896052  ]
+Collision detected
+New goal position: [-1.5413982 -0.7745068]
+Collision detected
+New goal position: [-1.0012577 -1.4980321]
+Collision detected
+New goal position: [ 1.0624269 -1.1028134]
+Collision detected
+New goal position: [-1.7399536  0.3972447]
+Reached goal!
+New goal position: [-0.10168099  1.9713755 ]
+Collision detected
+New goal position: [1.9075139  0.16652636]
+Reached goal!
+New goal position: [-1.4307884   0.91330147]
+Collision detected
+New goal position: [ 1.5459304 -1.0134176]
+Collision detected
+New goal position: [ 1.188922 -1.27611 ]
+Collision detected
+New goal position: [-1.6549968 -0.3850369]
+New goal position: [1.6620241  0.23603208]
+Reached goal!
+New goal position: [0.38316146 1.6596875 ]
+Collision detected
+New goal position: [1.3941059 1.2799747]
+Collision detected
+New goal position: [ 0.9579433 -1.4397357]
+Collision detected
+New goal position: [-0.02618003 -1.5458976 ]
+Collision detected
+New goal position: [-1.4631076  -0.57790816]
+Reached goal!
+New goal position: [1.5023818 0.8301646]
+Collision detected
+New goal position: [1.8731441 0.4097954]
+Reached goal!
+New goal position: [-0.27513546  1.8329453 ]
+Collision detected
+New goal position: [-1.7146448  0.4631339]
+Reached goal!
+New goal position: [ 1.4225063  -0.76184356]
+Collision detected
+New goal position: [ 1.7970142  -0.41575003]
+Reached goal!
+New goal position: [-1.7307165   0.17859817]
+Reached goal!
+New goal position: [ 0.60223126 -1.5004414 ]
+Reached goal!
+New goal position: [1.7433465 0.6600275]
+Collision detected
+New goal position: [1.9338311  0.43465298]
+Reached goal!
+New goal position: [0.8313199 1.6167973]
+Collision detected
+New goal position: [0.23020683 1.5398705 ]
+Collision detected
+New goal position: [ 0.39863625 -1.6797273 ]
+Reached goal!
+New goal position: [1.3212167 0.7707739]
+Collision detected
+New goal position: [-1.8297627  0.5520749]
+New goal position: [-1.5260329  1.179103 ]
+Collision detected
+New goal position: [ 0.08021111 -1.5792524 ]
+Reached goal!
+New goal position: [-1.0808544 -1.463187 ]
+Collision detected
+New goal position: [ 1.6039876  -0.24702752]
+Reached goal!
+New goal position: [ 1.7133827 -0.3177738]
+Reached goal!
+New goal position: [-0.98475623  1.4984862 ]
+Collision detected
+New goal position: [-0.11966451 -1.5739348 ]
+Reached goal!
+New goal position: [0.30774403 1.805893  ]
+Collision detected
+New goal position: [ 1.5768591 -1.1841264]
+Collision detected
+New goal position: [-1.6401161  -0.26715395]
+Reached goal!
+New goal position: [1.3898515 0.7525062]
+Collision detected
+New goal position: [ 1.8553172 -0.4312562]
+Reached goal!
+New goal position: [ 1.4144281 -1.2012842]
+Collision detected
+New goal position: [ 0.91368705 -1.3067297 ]
+Reached goal!
+New goal position: [-1.274455    0.92025226]
+Collision detected
+New goal position: [-0.6319267 -1.4109216]
+Collision detected
+New goal position: [0.8404541 1.6390039]
+Collision detected
+New goal position: [-1.6217535 -0.7487358]
+Reached goal!
+New goal position: [-1.4706235  0.3212753]
+Reached goal!
+New goal position: [-0.12456588  1.9591259 ]
+Collision detected
+New goal position: [ 1.7277373 -0.8872445]
+Collision detected
+New goal position: [-0.9693964 -1.3933108]
+New goal position: [-1.4067127  0.9252886]
+Collision detected
+New goal position: [ 1.1037855 -1.6210966]
+Collision detected
+New goal position: [-0.1777642 -1.6219411]
+Collision detected
+New goal position: [0.39785674 1.5895206 ]
+[I 2025-10-31 15:45:47,288] Trial 1 finished with value: 11.918760666666666 and parameters: {'learning_rate': 0.00027359198328474904, 'gamma': 0.9661534094030692, 'tau': 0.012885800073046579, 'batch_size': 512, 'buffer_size': 100000, 'policy_delay': 3, 'action_noise_std': 0.2864235711757879}. Best is trial 0 with value: 11.960747.
+New goal position: [-0.46752402 -1.8784527 ]
+Collision detected
+New goal position: [-1.7471278  0.9268751]
+New goal position: [ 0.54108644 -1.683794  ]
+Reached goal!
+New goal position: [-0.38827837 -1.5561697 ]
+Reached goal!
+New goal position: [-1.3668404   0.91990066]
+Collision detected
+New goal position: [0.94680315 1.5764892 ]
+Collision detected
+New goal position: [-1.0214977  1.1178055]
+Collision detected
+New goal position: [1.4013884 1.1292081]
+Collision detected
+New goal position: [0.8191039 1.6228635]
+Collision detected
+New goal position: [ 1.190645  -1.1199859]
+Collision detected
+New goal position: [ 0.45369732 -1.6351233 ]
+Reached goal!
+New goal position: [1.7773719  0.83565974]
+Reached goal!
+New goal position: [ 1.52166   -0.9070807]
+Reached goal!
+New goal position: [ 1.5684291 -0.6769252]
+Reached goal!
+New goal position: [-1.8892112   0.41004223]
+New goal position: [0.9823095 1.6264112]
+Collision detected
+New goal position: [-1.7380805  -0.02141843]
+Collision detected
+New goal position: [-1.9077817  0.4217276]
+Collision detected
+New goal position: [ 1.9155431  -0.24631193]
+Collision detected
+New goal position: [-0.03323197 -1.8334296 ]
+Collision detected
+New goal position: [-0.8080588  1.8016753]
+Reached goal!
+New goal position: [-1.6245308 -0.3860591]
+Reached goal!
+New goal position: [-1.5689164   0.24032775]
+Reached goal!
+New goal position: [1.5530634  0.76954055]
+Reached goal!
+New goal position: [0.56677073 1.3964858 ]
+Collision detected
+New goal position: [-0.11191936 -1.7805338 ]
+Collision detected
+New goal position: [-1.9009712   0.06085871]
+New goal position: [1.6746408  0.19160758]
+Reached goal!
+New goal position: [-0.7602166  1.8209672]
+Reached goal!
+New goal position: [-1.6172541   0.17569087]
+Reached goal!
+New goal position: [-0.59411377  1.6999931 ]
+Reached goal!
+New goal position: [1.0643209 1.3535705]
+Collision detected
+New goal position: [-1.745702    0.68792975]
+Reached goal!
+New goal position: [ 0.60033524 -1.8247488 ]
+Reached goal!
+New goal position: [1.8193336  0.27863002]
+Collision detected
+New goal position: [-1.1171604  1.4703815]
+Collision detected
+New goal position: [1.3885157 1.1408347]
+Collision detected
+New goal position: [-1.6449243  0.6807186]
+Collision detected
+New goal position: [-1.9274812  -0.26159823]
+Reached goal!
+New goal position: [-1.4337994 -0.8387174]
+Reached goal!
+New goal position: [-1.397544   1.3304433]
+New goal position: [-1.7385353  0.8693777]
+Collision detected
+New goal position: [-1.8661271  -0.45878497]
+Reached goal!
+New goal position: [-1.8342111  -0.00292521]
+Reached goal!
+New goal position: [-0.07839736 -1.6148902 ]
+[I 2025-10-31 15:55:08,105] Trial 2 finished with value: 10.676121 and parameters: {'learning_rate': 5.054032621869035e-05, 'gamma': 0.959611317920291, 'tau': 0.04168208153003257, 'batch_size': 512, 'buffer_size': 300000, 'policy_delay': 3, 'action_noise_std': 0.11030885900475089}. Best is trial 0 with value: 11.960747.
+New goal position: [-0.4607423  1.7942064]
+Collision detected
+New goal position: [ 0.18350962 -1.9084244 ]
+Collision detected
+New goal position: [-0.70866656  1.655855  ]
+Collision detected
+New goal position: [0.62846494 1.6939293 ]
+Collision detected
+New goal position: [-0.1523667  1.6807345]
+Collision detected
+New goal position: [-1.10282    1.0279473]
+Collision detected
+New goal position: [ 0.0748341 -1.5663812]
+Collision detected
+New goal position: [-1.7441267 -0.8757655]
+Collision detected
+New goal position: [0.1108776 1.8259122]
+Collision detected
+New goal position: [ 1.6170862  -0.49997166]
+New goal position: [ 1.251969  -1.2710109]
+Collision detected
+New goal position: [1.8381894 0.6921525]
+Collision detected
+New goal position: [1.3313593 1.3028451]
+Collision detected
+New goal position: [-1.4524579 -1.1064073]
+Collision detected
+New goal position: [-0.5207673  1.5199444]
+Collision detected
+New goal position: [ 1.8554647 -0.3536391]
+Collision detected
+New goal position: [1.2517835 1.0060763]
+Collision detected
+New goal position: [-0.39650208  1.6886476 ]
+Collision detected
+New goal position: [-1.3154947  1.1252942]
+Collision detected
+New goal position: [-1.4535394  -0.91579914]
+Collision detected
+New goal position: [ 0.74914604 -1.8198959 ]
+Collision detected
+New goal position: [ 1.5661036 -1.0723876]
+Collision detected
+New goal position: [ 1.0048519 -1.3070114]
+Collision detected
+New goal position: [-1.3316785  1.295866 ]
+Collision detected
+New goal position: [-0.64144343 -1.4573343 ]
+Collision detected
+New goal position: [-1.9761827  -0.07888307]
+Reached goal!
+New goal position: [-0.23307659  1.9744433 ]
+Collision detected
+New goal position: [-0.5071509 -1.9263552]
+Collision detected
+New goal position: [-0.3126672 -1.7126114]
+Collision detected
+New goal position: [ 0.28107804 -1.4778395 ]
+New goal position: [1.5479873 0.7327011]
+Collision detected
+New goal position: [ 1.9577426  -0.09567966]
+Reached goal!
+New goal position: [-1.3539099  1.201462 ]
+Collision detected
+New goal position: [ 1.6857194  -0.29927018]
+Reached goal!
+New goal position: [ 1.2373588 -1.2904671]
+Collision detected
+New goal position: [ 0.684432  -1.6822003]
+Reached goal!
+New goal position: [-0.03939551  1.6784227 ]
+Collision detected
+New goal position: [-1.4954686 -1.3085355]
+Collision detected
+New goal position: [1.7071865  0.42120185]
+Reached goal!
+New goal position: [ 0.1499936 -1.5337036]
+Collision detected
+New goal position: [-1.932122   -0.07676643]
+Reached goal!
+New goal position: [ 1.9751726  -0.29772085]
+Reached goal!
+New goal position: [-1.5928217 -0.5873659]
+Reached goal!
+New goal position: [-1.9245493  -0.09312094]
+Reached goal!
+New goal position: [ 0.91935337 -1.5457649 ]
+Reached goal!
+New goal position: [-0.09319369  1.8307761 ]
+Collision detected
+New goal position: [0.3889314 1.888859 ]
+Collision detected
+New goal position: [-0.97758317  1.5492121 ]
+New goal position: [0.3005923 1.71379  ]
+Collision detected
+New goal position: [ 1.3681415 -1.0628213]
+Collision detected
+New goal position: [-1.3608243  0.9538564]
+Collision detected
+New goal position: [-1.107922   1.0575144]
+Collision detected
+New goal position: [-0.11323793  1.7210374 ]
+Collision detected
+New goal position: [ 1.5913773 -0.3649313]
+Reached goal!
+New goal position: [-1.750083   -0.96560895]
+Reached goal!
+New goal position: [0.9267168 1.7320442]
+Collision detected
+New goal position: [ 1.2338871 -0.9270811]
+Collision detected
+New goal position: [1.1477768 1.3760576]
+Collision detected
+New goal position: [1.0621998 1.2360499]
+Collision detected
+New goal position: [ 1.1674654 -1.2476634]
+Collision detected
+New goal position: [ 0.90719825 -1.3296549 ]
+Collision detected
+New goal position: [-1.2249112  1.3105755]
+Collision detected
+New goal position: [-1.455818 -1.08521 ]
+Collision detected
+New goal position: [-1.2720307  1.5326749]
+New goal position: [0.52127403 1.6767917 ]
+New goal position: [0.33170676 1.7811704 ]
+Collision detected
+New goal position: [-1.509424    0.32800588]
+Reached goal!
+New goal position: [1.6477606  0.46681347]
+[I 2025-10-31 16:07:44,264] Trial 3 finished with value: 8.523670333333333 and parameters: {'learning_rate': 0.00010878361863153813, 'gamma': 0.9637958045567028, 'tau': 0.03130613603038586, 'batch_size': 512, 'buffer_size': 500000, 'policy_delay': 1, 'action_noise_std': 0.20992340261481102}. Best is trial 0 with value: 11.960747.
+New goal position: [-0.42983764  1.7384299 ]
+Collision detected
+New goal position: [ 1.9194278 -0.2945877]
+Collision detected
+New goal position: [ 1.8642087  -0.13896488]
+Collision detected
+New goal position: [0.49513623 1.5036374 ]
+Collision detected
+New goal position: [-0.9963473 -1.2665657]
+Collision detected
+New goal position: [1.0454817 1.0862058]
+Collision detected
+New goal position: [ 1.5511405 -1.1304705]
+Collision detected
+New goal position: [-1.6030238 -1.0074525]
+New goal position: [-1.7117426   0.53586566]
+Reached goal!
+New goal position: [-1.9944338  -0.00730736]
+Reached goal!
+New goal position: [ 0.17530647 -1.9540617 ]
+Collision detected
+New goal position: [ 0.45265284 -1.4485093 ]
+Reached goal!
+New goal position: [-0.6492147 -1.6682863]
+Collision detected
+New goal position: [-0.8301837 -1.5945781]
+Collision detected
+New goal position: [-0.08283732 -1.9365456 ]
+Collision detected
+New goal position: [0.06689911 1.9385048 ]
+Collision detected
+New goal position: [-1.3437805 -1.4276987]
+Collision detected
+New goal position: [-1.2092404  1.1126115]
+Collision detected
+New goal position: [-0.42032853  1.6333815 ]
+Collision detected
+New goal position: [-1.7612877  0.3311143]
+Collision detected
+New goal position: [0.24981096 1.5003774 ]
+Collision detected
+New goal position: [1.4948657  0.43977445]
+Reached goal!
+New goal position: [1.1123139 1.0545918]
+Collision detected
+New goal position: [-1.6252662 -1.0139658]
+Reached goal!
+New goal position: [ 1.4895515  -0.50576746]
+Collision detected
+New goal position: [-1.9464452  -0.20382981]
+Reached goal!
+New goal position: [-0.5680473  1.890188 ]
+Collision detected
+New goal position: [-1.1441747  1.3779455]
+Collision detected
+New goal position: [-1.4029514  0.6673802]
+Collision detected
+New goal position: [-0.0271385 -1.9567426]
+New goal position: [-1.2608742  1.0761355]
+New goal position: [0.43819186 1.5684438 ]
+New goal position: [ 1.5449411 -0.8926351]
+New goal position: [-0.9566236  1.5766044]
+Collision detected
+New goal position: [-1.6469713   0.19410743]
+Reached goal!
+New goal position: [-1.5287852   0.99330634]
+Collision detected
+New goal position: [-1.0926987  1.2111262]
+Collision detected
+New goal position: [0.74125314 1.8130126 ]
+Collision detected
+New goal position: [-1.5305939   0.08212384]
+Reached goal!
+New goal position: [ 1.5901806 -1.0898962]
+Collision detected
+New goal position: [-0.71472746 -1.5421157 ]
+Collision detected
+New goal position: [-0.5398628 -1.4686966]
+Collision detected
+New goal position: [-1.8341736   0.03215247]
+Reached goal!
+New goal position: [ 1.451615  -1.0535498]
+Collision detected
+New goal position: [-1.6257175  1.0478772]
+Collision detected
+New goal position: [-0.94349074  1.6181315 ]
+Collision detected
+New goal position: [-0.22556911  1.6209607 ]
+New goal position: [ 1.7706876  -0.16447389]
+Reached goal!
+New goal position: [1.1359833 1.3543487]
+Collision detected
+New goal position: [-1.9214318   0.23066156]
+Reached goal!
+New goal position: [-0.9487019  1.4407113]
+Collision detected
+New goal position: [1.680286   0.76448864]
+Reached goal!
+New goal position: [-1.5080765  0.7653601]
+Collision detected
+New goal position: [-0.19701764  1.974582  ]
+Collision detected
+New goal position: [1.533789  1.1436043]
+Collision detected
+New goal position: [0.8310648 1.2490113]
+Collision detected
+New goal position: [ 1.802444   -0.12344213]
+Reached goal!
+New goal position: [1.5034509 1.0081344]
+Collision detected
+New goal position: [1.7449448 0.4335448]
+Reached goal!
+New goal position: [ 0.79080725 -1.8325634 ]
+Reached goal!
+New goal position: [ 0.03725374 -1.9996182 ]
+Collision detected
+New goal position: [0.9812718 1.4828254]
+Collision detected
+New goal position: [ 1.7439425  -0.28206718]
+Reached goal!
+New goal position: [-1.7151392  0.857647 ]
+Collision detected
+New goal position: [ 0.45937997 -1.9396039 ]
+Reached goal!
+New goal position: [-1.6945779  -0.13381028]
+New goal position: [0.9736685 1.587664 ]
+Collision detected
+New goal position: [-1.5362731  -0.47216982]
+Reached goal!
+New goal position: [-0.260405  -1.5392094]
+Collision detected
+New goal position: [0.24616346 1.7604047 ]
+[I 2025-10-31 16:14:48,928] Trial 4 finished with value: 10.122551333333334 and parameters: {'learning_rate': 0.0006013614740713609, 'gamma': 0.9742407185091706, 'tau': 0.028302584735111408, 'batch_size': 128, 'buffer_size': 1000000, 'policy_delay': 3, 'action_noise_std': 0.09462674914103365}. Best is trial 0 with value: 11.960747.
+New goal position: [-0.5312651 -1.6375422]
+Collision detected
+New goal position: [1.7093061  0.04039025]
+Collision detected
+New goal position: [0.99501234 1.583448  ]
+New goal position: [ 0.5071896 -1.6154982]
+New goal position: [-1.7522029  0.8215523]
+New goal position: [ 1.8290749 -0.3449386]
+New goal position: [ 0.8541587 -1.6878031]
+New goal position: [-1.1704508  1.4621743]
+New goal position: [-1.6816391  0.4167565]
+New goal position: [1.745252   0.14249061]
+New goal position: [-1.513621    0.24728431]
+[I 2025-10-31 16:20:59,472] Trial 5 pruned. 
+New goal position: [-1.4019397  1.1316373]
+New goal position: [ 1.2246789  -0.95296395]
+New goal position: [-1.366061  -0.7591279]
+New goal position: [-1.6060761  1.0975506]
+New goal position: [0.19892186 1.8397641 ]
+New goal position: [ 1.8384883  -0.17027706]
+New goal position: [-0.3000044 -1.8625385]
+New goal position: [ 0.9188881 -1.496626 ]
+New goal position: [-1.355341  -1.3225076]
+[I 2025-10-31 16:28:55,706] Trial 6 pruned. 
+New goal position: [-1.7403041  0.2245058]
+New goal position: [-0.16667701  1.939132  ]
+New goal position: [-0.04153557  1.7931216 ]
+New goal position: [-1.636652  -0.9864827]
+New goal position: [-1.0638549  1.4638708]
+New goal position: [-1.725851    0.76590246]
+New goal position: [-0.34026957 -1.6494608 ]
+New goal position: [-1.8016369   0.04496073]
+New goal position: [0.67328113 1.6038237 ]
+[I 2025-10-31 16:33:21,483] Trial 7 pruned. 
+New goal position: [-0.87008995 -1.4979302 ]
+New goal position: [ 1.6351228  -0.22243929]
+New goal position: [1.5458935 1.2056533]
+New goal position: [0.14093082 1.886815  ]
+Collision detected
+New goal position: [-0.77466184 -1.3513734 ]
+Collision detected
+New goal position: [1.4868966  0.66786015]
+Reached goal!
+New goal position: [-1.6698868  0.7583771]
+Collision detected
+New goal position: [-0.22403874 -1.6745121 ]
+Collision detected
+New goal position: [-1.9090544  -0.01142627]
+Reached goal!
+New goal position: [1.2631804 1.2756789]
+Collision detected
+New goal position: [ 1.7801538  -0.10371207]
+Collision detected
+New goal position: [1.501945  0.4415993]
+Collision detected
+New goal position: [-1.8599738   0.49419725]
+Collision detected
+New goal position: [1.7736188 0.5356013]
+Collision detected
+New goal position: [ 1.639239  -0.8713511]
+Collision detected
+New goal position: [ 1.4794192 -1.0677935]
+New goal position: [ 1.4556323 -0.5963893]
+Collision detected
+New goal position: [ 1.1295311 -1.5483339]
+Reached goal!
+New goal position: [1.8886969  0.20116055]
+Collision detected
+New goal position: [1.6094178 1.1777087]
+Collision detected
+New goal position: [1.8691111 0.2640545]
+Collision detected
+New goal position: [-1.600761   0.8249296]
+Collision detected
+New goal position: [-1.4451634  1.2985532]
+Collision detected
+New goal position: [0.54918236 1.6782018 ]
+Collision detected
+New goal position: [0.34516335 1.467989  ]
+Collision detected
+New goal position: [-1.335704  -1.0076166]
+Reached goal!
+New goal position: [-1.9024415   0.47826055]
+Collision detected
+New goal position: [-1.97778     0.17466398]
+Collision detected
+New goal position: [ 1.5172464 -0.5878617]
+Collision detected
+New goal position: [ 1.2162491 -1.4844713]
+Reached goal!
+New goal position: [ 1.7318075 -0.7929909]
+Collision detected
+New goal position: [-1.9471343  0.4369162]
+Collision detected
+New goal position: [-1.5986036  -0.28358817]
+Reached goal!
+New goal position: [1.8750851  0.60984135]
+Reached goal!
+New goal position: [ 1.4910856  -0.64784855]
+Collision detected
+New goal position: [0.09053637 1.6425062 ]
+Collision detected
+New goal position: [1.8378605 0.2927968]
+New goal position: [-0.26164794  1.8153899 ]
+Collision detected
+New goal position: [-1.736751   0.4702973]
+Collision detected
+New goal position: [1.4964843 1.3128861]
+Collision detected
+New goal position: [-1.335013   1.0351771]
+[I 2025-10-31 16:40:07,673] Trial 8 pruned. 
+New goal position: [ 1.493797   -0.95202506]
+Collision detected
+New goal position: [1.7498151  0.10507794]
+Reached goal!
+New goal position: [ 1.9636432  -0.07441007]
+Reached goal!
+New goal position: [0.30883947 1.6433924 ]
+Collision detected
+New goal position: [1.3664473 0.9500744]
+Collision detected
+New goal position: [1.678813   0.77938825]
+Collision detected
+New goal position: [-1.4238188  1.0581735]
+Collision detected
+New goal position: [-1.0534427 -1.216556 ]
+Collision detected
+New goal position: [1.0217628 1.3099334]
+Collision detected
+New goal position: [1.5829017 0.7076249]
+Collision detected
+New goal position: [ 1.4584552  -0.87351066]
+Collision detected
+New goal position: [-1.0732863 -1.3079747]
+New goal position: [0.98819566 1.4609065 ]
+Collision detected
+New goal position: [-1.7086667  -0.11051028]
+Reached goal!
+New goal position: [-0.7742738 -1.7988263]
+Collision detected
+New goal position: [-1.5569729  -0.11660939]
+Reached goal!
+New goal position: [ 1.302913   -0.79303914]
+Collision detected
+New goal position: [-1.6820449 -0.7892977]
+Reached goal!
+New goal position: [1.6892531 1.0163032]
+Collision detected
+New goal position: [0.52618974 1.5971044 ]
+Collision detected
+New goal position: [-1.572702   -0.57669383]
+Reached goal!
+New goal position: [1.5601989 0.4848954]
+Reached goal!
+New goal position: [ 1.1213831 -1.43553  ]
+Collision detected
+New goal position: [0.59533185 1.6045513 ]
+Reached goal!
+New goal position: [1.2654513 1.2457368]
+Collision detected
+New goal position: [-1.0276921 -1.3578897]
+Collision detected
+New goal position: [-0.98590386 -1.4340438 ]
+Collision detected
+New goal position: [-1.6269917  -0.77610964]
+New goal position: [-1.1883779 -1.0729154]
+Collision detected
+New goal position: [-0.09203752  1.8800129 ]
+Collision detected
+New goal position: [-1.1605487  1.2544327]
+Collision detected
+New goal position: [-0.86654407 -1.2917769 ]
+Collision detected
+New goal position: [0.9111004 1.5109926]
+Collision detected
+New goal position: [ 0.44272238 -1.5669338 ]
+Reached goal!
+New goal position: [ 0.8641007 -1.7234818]
+Collision detected
+New goal position: [1.9617532  0.09038814]
+Reached goal!
+New goal position: [-1.778234    0.05631315]
+Collision detected
+New goal position: [-0.17468312  1.7820392 ]
+Collision detected
+New goal position: [-1.5868505  -0.43082306]
+Reached goal!
+New goal position: [0.96988094 1.4656084 ]
+Collision detected
+New goal position: [ 1.3465588 -1.4094578]
+Collision detected
+New goal position: [ 0.17020297 -1.5911561 ]
+Reached goal!
+New goal position: [-1.3243241  1.0179037]
+Collision detected
+New goal position: [1.6657407  0.24609509]
+Reached goal!
+New goal position: [1.7022439  0.68196386]
+Reached goal!
+New goal position: [-1.861966    0.39889756]
+New goal position: [-1.2824527  1.0937872]
+Collision detected
+New goal position: [-0.63300765 -1.6348206 ]
+Collision detected
+New goal position: [-1.295278   1.3751253]
+Collision detected
+New goal position: [-1.6517363   0.53985083]
+[I 2025-10-31 16:45:22,843] Trial 9 pruned. 
+New goal position: [0.81533015 1.2796255 ]
+New goal position: [-0.8694387  1.2624687]
+New goal position: [1.9089837  0.23363753]
+New goal position: [-1.7074627   0.00428252]
+New goal position: [-1.4064914  1.1020933]
+New goal position: [1.6568048 0.4703881]
+New goal position: [1.816777   0.79991806]
+New goal position: [ 0.7565227 -1.6687436]
+New goal position: [ 1.7697953  -0.66260743]
+[I 2025-10-31 16:49:55,606] Trial 10 pruned. 
+New goal position: [1.6240295 0.8988648]
+Collision detected
+New goal position: [-1.0081571  1.4084413]
+Collision detected
+New goal position: [0.23244476 1.6355515 ]
+Collision detected
+New goal position: [-1.2490773 -1.0864061]
+Reached goal!
+New goal position: [ 1.1128862 -1.3241252]
+Collision detected
+New goal position: [-1.6204456  -0.77562165]
+Reached goal!
+New goal position: [0.9125452 1.5829538]
+Collision detected
+New goal position: [-1.1835598 -1.4734627]
+Collision detected
+New goal position: [1.9256707 0.2304502]
+Reached goal!
+New goal position: [0.12930715 1.8076415 ]
+Collision detected
+New goal position: [ 1.5834951 -1.0277383]
+Collision detected
+New goal position: [-0.3680533  1.6557915]
+Collision detected
+New goal position: [1.2675003 1.2803211]
+Collision detected
+New goal position: [ 1.627926   -0.14237984]
+Reached goal!
+New goal position: [1.197596  0.9471782]
+Collision detected
+New goal position: [0.6164413 1.7381332]
+Collision detected
+New goal position: [-0.21953408  1.8237802 ]
+Collision detected
+New goal position: [-0.627021  1.87142 ]
+New goal position: [ 1.8021225 -0.5321098]
+Collision detected
+New goal position: [-0.03160751 -1.5061188 ]
+Collision detected
+New goal position: [-1.7492057  -0.57472026]
+Reached goal!
+New goal position: [-0.81151974  1.6068282 ]
+Collision detected
+New goal position: [0.70496935 1.5148869 ]
+Collision detected
+New goal position: [ 1.2255954 -1.480515 ]
+Reached goal!
+New goal position: [-1.2916632  1.2178246]
+Collision detected
+New goal position: [ 1.2409163 -1.2860006]
+Collision detected
+New goal position: [-0.6690913 -1.8519489]
+Collision detected
+New goal position: [1.8574089  0.26550603]
+Reached goal!
+New goal position: [-1.7610229 -0.2306804]
+Reached goal!
+New goal position: [1.1928788 1.0418034]
+Collision detected
+New goal position: [-1.2261864  1.2061212]
+Collision detected
+New goal position: [1.720239   0.67164415]
+Reached goal!
+New goal position: [ 1.3731744  -0.62097913]
+Collision detected
+New goal position: [1.1748145 1.2228364]
+Collision detected
+New goal position: [-1.5181932  -0.91283077]
+Reached goal!
+New goal position: [-0.2649796  1.5400437]
+Collision detected
+New goal position: [0.40924087 1.6598604 ]
+Collision detected
+New goal position: [-1.9240664 -0.2510634]
+Reached goal!
+New goal position: [-0.67720455 -1.8357595 ]
+Collision detected
+New goal position: [ 1.8362153 -0.5040752]
+Collision detected
+New goal position: [ 0.92529356 -1.579493  ]
+New goal position: [1.371309  0.8834159]
+Reached goal!
+New goal position: [-1.2422498  1.3057444]
+Collision detected
+New goal position: [1.6294217 0.853658 ]
+Reached goal!
+New goal position: [ 0.31154233 -1.7368304 ]
+Reached goal!
+New goal position: [-1.3245572 -1.0499413]
+Reached goal!
+New goal position: [0.8226867 1.7142435]
+Collision detected
+New goal position: [-1.1037377 -1.1927241]
+Collision detected
+New goal position: [-1.3226781 -1.4321895]
+Reached goal!
+New goal position: [1.6622213  0.04771654]
+Reached goal!
+New goal position: [ 0.16093674 -1.9112109 ]
+Collision detected
+New goal position: [-1.7153542  -0.97651875]
+Reached goal!
+New goal position: [-1.4909633 -1.230055 ]
+Reached goal!
+New goal position: [ 0.2198166 -1.5768312]
+Reached goal!
+New goal position: [ 1.2947714 -1.1132394]
+Reached goal!
+New goal position: [ 0.09301842 -1.8825938 ]
+Collision detected
+New goal position: [1.4446174 0.5147181]
+Reached goal!
+New goal position: [-0.58329266  1.4584696 ]
+Collision detected
+New goal position: [-1.1631767  1.0243682]
+New goal position: [1.2575419 1.1615136]
+Collision detected
+New goal position: [-0.6399995 -1.7016976]
+New goal position: [-1.7700391  -0.51896995]
+Reached goal!
+New goal position: [-0.7819219  1.8040282]
+[I 2025-10-31 16:57:46,723] Trial 11 pruned. 
+New goal position: [-1.1415154 -1.6112049]
+Reached goal!
+New goal position: [ 1.1600829 -1.4353017]
+Collision detected
+New goal position: [0.9431058 1.1707988]
+Collision detected
+New goal position: [ 1.1730608  -0.93806803]
+Collision detected
+New goal position: [-1.1467283 -1.5085691]
+Collision detected
+New goal position: [ 1.2175604 -1.3788552]
+Collision detected
+New goal position: [-1.6564468 -0.9829721]
+Reached goal!
+New goal position: [ 0.666332  -1.5519253]
+Reached goal!
+New goal position: [-0.86980426 -1.6786314 ]
+Collision detected
+New goal position: [ 1.2281559 -1.2178341]
+Collision detected
+New goal position: [0.14275841 1.8865504 ]
+Collision detected
+New goal position: [ 0.45587325 -1.4776436 ]
+New goal position: [-0.14297459 -1.581266  ]
+Collision detected
+New goal position: [ 1.2752377 -0.8712894]
+Collision detected
+New goal position: [1.5908465  0.64708304]
+Collision detected
+New goal position: [1.214346  0.9178461]
+Collision detected
+New goal position: [-0.8752689  1.7583791]
+Collision detected
+New goal position: [-0.9273015  1.5870706]
+Collision detected
+New goal position: [ 1.6087189  -0.55240494]
+Collision detected
+New goal position: [-1.5006583 -1.0705155]
+Collision detected
+New goal position: [-1.4209908  1.0212977]
+Collision detected
+New goal position: [ 1.5179836 -1.1046679]
+Collision detected
+New goal position: [ 0.7132185 -1.4225893]
+Reached goal!
+New goal position: [ 1.209011  -1.4945816]
+Collision detected
+New goal position: [-1.4377893  0.6842404]
+Collision detected
+New goal position: [0.59705615 1.7565088 ]
+Collision detected
+New goal position: [1.6301119  0.45470905]
+Reached goal!
+New goal position: [ 1.0585666 -1.6279309]
+Collision detected
+New goal position: [-1.3631797  -0.81558645]
+Reached goal!
+New goal position: [-0.8487165  1.4372464]
+Collision detected
+New goal position: [ 1.311302  -1.2601247]
+Collision detected
+New goal position: [-1.7048756   0.29414144]
+Reached goal!
+New goal position: [-1.8142036  0.8326338]
+Collision detected
+New goal position: [-1.3370351 -0.8141859]
+Reached goal!
+New goal position: [1.6805923  0.67113894]
+New goal position: [-1.6656239   0.48744804]
+Collision detected
+New goal position: [ 1.1285098 -1.0790191]
+Collision detected
+New goal position: [ 1.1146846 -1.3343848]
+Collision detected
+New goal position: [1.67515    0.09898782]
+Reached goal!
+New goal position: [ 0.41853613 -1.4615846 ]
+Reached goal!
+New goal position: [1.3583609  0.95909435]
+Collision detected
+New goal position: [ 1.0065135 -1.2232223]
+Collision detected
+New goal position: [ 0.433901  -1.5786457]
+Reached goal!
+New goal position: [-0.9120639  1.6210849]
+Collision detected
+New goal position: [-1.2649142  0.9927221]
+Collision detected
+New goal position: [1.5706427  0.66272885]
+Reached goal!
+New goal position: [ 1.5747226  -0.76365733]
+Collision detected
+New goal position: [ 1.6845635 -0.9322378]
+Collision detected
+New goal position: [-1.280491  0.98447 ]
+Collision detected
+New goal position: [-1.631948   -0.19913308]
+Reached goal!
+New goal position: [1.6717526  0.93460846]
+Collision detected
+New goal position: [-1.6042591  0.5008118]
+Reached goal!
+New goal position: [1.2303841 1.2833005]
+Collision detected
+New goal position: [-1.5982875  0.9751643]
+Collision detected
+New goal position: [-1.6736761 -1.0781142]
+Reached goal!
+New goal position: [-0.93816674 -1.3808047 ]
+New goal position: [1.3641328 0.7466321]
+Collision detected
+New goal position: [ 0.99187934 -1.3225809 ]
+Collision detected
+New goal position: [ 1.2277558  -0.99635077]
+Collision detected
+New goal position: [-1.0521221  1.5465457]
+[I 2025-10-31 17:07:32,914] Trial 12 pruned. 
+New goal position: [-0.894254  -1.5522988]
+Collision detected
+New goal position: [-1.4731848  1.0864998]
+Collision detected
+New goal position: [0.2619197 1.7982049]
+Collision detected
+New goal position: [-0.711227   1.6156642]
+Collision detected
+New goal position: [1.8802149  0.17351566]
+Reached goal!
+New goal position: [-1.1478758  1.3678868]
+Collision detected
+New goal position: [-0.10142512  1.633581  ]
+Collision detected
+New goal position: [-1.6500158 -0.9222665]
+Collision detected
+New goal position: [-1.8150715  -0.00452227]
+Collision detected
+New goal position: [1.8749882  0.17529619]
+Collision detected
+New goal position: [ 0.51333034 -1.8302503 ]
+Collision detected
+New goal position: [1.5363388 0.865116 ]
+New goal position: [-0.18105403  1.8716683 ]
+Collision detected
+New goal position: [-0.23182203  1.623924  ]
+Collision detected
+New goal position: [1.6176858 0.621659 ]
+Reached goal!
+New goal position: [-1.3215983  -0.77490854]
+Reached goal!
+New goal position: [-0.61366427 -1.549195  ]
+Collision detected
+New goal position: [0.0654069 1.5896909]
+Collision detected
+New goal position: [1.2541877 0.9605706]
+Reached goal!
+New goal position: [-0.5873086 -1.5753955]
+Collision detected
+New goal position: [ 1.3138784 -0.7333191]
+Collision detected
+New goal position: [-1.6900048 -0.5211539]
+Reached goal!
+New goal position: [-1.389092  -1.0929787]
+Collision detected
+New goal position: [-0.3598022 -1.5931954]
+Collision detected
+New goal position: [-0.33842146 -1.5370775 ]
+Collision detected
+New goal position: [-1.4185988 -1.0451918]
+Collision detected
+New goal position: [-1.4613788 -0.5188373]
+Reached goal!
+New goal position: [-1.8951441  0.5556436]
+Collision detected
+New goal position: [ 1.0346595 -1.2373192]
+Collision detected
+New goal position: [-1.148049  -1.2469212]
+Collision detected
+New goal position: [1.8643324  0.21520361]
+Reached goal!
+New goal position: [ 1.4751468 -0.4586851]
+Collision detected
+New goal position: [0.7762821 1.3638136]
+New goal position: [ 1.5838616  -0.05855446]
+Reached goal!
+New goal position: [1.42175   1.0129836]
+Collision detected
+New goal position: [-1.5059814 -1.2521061]
+Reached goal!
+New goal position: [1.5260936  0.65838754]
+Reached goal!
+New goal position: [-1.5158868 -0.659894 ]
+Reached goal!
+New goal position: [ 1.1098282 -1.1182135]
+Collision detected
+New goal position: [-0.08271474 -1.5501785 ]
+Collision detected
+New goal position: [0.52382505 1.6017    ]
+Collision detected
+New goal position: [-0.33338106  1.6448734 ]
+Collision detected
+New goal position: [-1.226491   -0.97582376]
+Collision detected
+New goal position: [-1.0213407  1.4252282]
+Collision detected
+New goal position: [-1.4185416   0.58557475]
+Reached goal!
+New goal position: [ 1.59352   -1.1892257]
+Collision detected
+New goal position: [-0.49586293 -1.8499492 ]
+Collision detected
+New goal position: [-1.0294052 -1.5449084]
+Collision detected
+New goal position: [1.7694157 0.4946207]
+Reached goal!
+New goal position: [1.222578   0.97000355]
+Collision detected
+New goal position: [ 0.2037952 -1.8940173]
+Collision detected
+New goal position: [-1.2410897  1.4909478]
+Collision detected
+New goal position: [ 1.1257727 -1.4059099]
+Collision detected
+New goal position: [ 1.0282751 -1.2249773]
+Collision detected
+New goal position: [-1.6428368  1.0290103]
+New goal position: [1.1186903 1.2574084]
+Collision detected
+New goal position: [-1.0959291  1.2411339]
+Collision detected
+New goal position: [ 1.8276186  -0.12676652]
+Reached goal!
+New goal position: [-1.4842628  0.6832022]
+[I 2025-10-31 17:16:36,783] Trial 13 pruned. 
+New goal position: [1.4686089  0.69437885]
+Collision detected
+New goal position: [-1.3158795  1.0842496]
+Collision detected
+New goal position: [1.1027912 1.1022358]
+Collision detected
+New goal position: [1.1116825 1.5003248]
+Collision detected
+New goal position: [-0.60357136 -1.8938245 ]
+Collision detected
+New goal position: [-1.7712525  -0.17097779]
+New goal position: [1.1432526 1.1303749]
+Collision detected
+New goal position: [-0.8000351 -1.8057266]
+Collision detected
+New goal position: [1.7553843  0.69023174]
+Collision detected
+New goal position: [-1.002935  -1.6817244]
+Collision detected
+New goal position: [ 1.6261548  -0.42104378]
+Collision detected
+New goal position: [-1.6101207   0.36498162]
+Reached goal!
+New goal position: [ 1.2270105 -1.240089 ]
+Collision detected
+New goal position: [-1.4054594  0.5783971]
+New goal position: [-1.8462114   0.19038764]
+Reached goal!
+New goal position: [ 1.4259139 -1.146909 ]
+Collision detected
+New goal position: [0.22126302 1.8135438 ]
+Collision detected
+New goal position: [-1.758169    0.16548131]
+Reached goal!
+New goal position: [-1.5421453 -0.7067316]
+Collision detected
+New goal position: [ 1.1727369 -1.1715289]
+Collision detected
+New goal position: [ 0.8876185 -1.6158371]
+New goal position: [-1.4709585  0.3453804]
+Reached goal!
+New goal position: [-1.5552222   0.29760027]
+Reached goal!
+New goal position: [-1.6044049  -0.75449455]
+Collision detected
+New goal position: [-0.82158244 -1.4105508 ]
+[I 2025-10-31 17:26:30,984] Trial 14 pruned. 
+Error: only one Robot instance can be created per controller process.
+===== Best Trial =====
+Value (mean reward): 11.960747
+Params:
+  learning_rate: 0.0006483312862524853
+  gamma: 0.9717009800669282
+  tau: 0.04680250938424557
+  batch_size: 256
+  buffer_size: 300000
+  policy_delay: 1
+  action_noise_std: 0.18449280747014618
+Using cuda device
+Wrapping the env in a DummyVecEnv.

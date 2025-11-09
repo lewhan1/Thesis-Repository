@@ -1,0 +1,15 @@
+[I 2025-11-01 20:58:57,961] Trial 49 finished with value: 8.133754333333334 and parameters: {'learning_rate': 0.00035373106106137637, 'gamma': 0.993678364118507, 'tau': 0.04385399868410233, 'batch_size': 64, 'buffer_size': 500000, 'policy_delay': 1, 'action_noise_std': 0.20936236706027384}. Best is trial 13 with value: 20.062988333333333.
+Error: only one Robot instance can be created per controller process.
+===== Best Trial =====
+Value (mean reward): 20.062988333333333
+Params:
+  learning_rate: 0.0011529870689709549
+  gamma: 0.978392944683848
+  tau: 0.015712968856010125
+  batch_size: 256
+  buffer_size: 100000
+  policy_delay: 2
+  action_noise_std: 0.13542849557325698
+Using cuda device
+Wrapping the env in a DummyVecEnv.
+Traceback (most recent call last):

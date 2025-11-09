@@ -1,0 +1,306 @@
+#VRML_SIM R2025a utf8
+# license: Apache License 2.0
+# license url: http://www.apache.org/licenses/LICENSE-2.0
+# This is a proto file for Webots for the Emaraldhorizons
+# Extracted from: C:\Users\User\Documents\University\Research_Project\URDF\sw\robotV2\robot\urdf\robot.urdf
+
+PROTO Emaraldhorizons [
+  field  SFVec3f     translation     0 0 0
+  field  SFRotation  rotation        0 0 1 0
+  field  SFString    name            "Emaraldhorizons"  # Is `Robot.name`.
+  field  SFString    controller      "<extern>"             # Is `Robot.controller`.
+  field  MFString    controllerArgs  []                 # Is `Robot.controllerArgs`.
+  field  SFString    customData      ""                 # Is `Robot.customData`.
+  field  SFBool      supervisor      FALSE              # Is `Robot.supervisor`.
+  field  SFBool      synchronization TRUE               # Is `Robot.synchronization`.
+  field  SFBool      selfCollision   FALSE              # Is `Robot.selfCollision`.
+]
+{
+  Robot {
+    translation IS translation
+    rotation IS rotation
+    controller IS controller
+    controllerArgs IS controllerArgs
+    customData IS customData
+    supervisor IS supervisor
+    synchronization IS synchronization
+    selfCollision IS selfCollision
+    children [
+      Shape {
+        appearance DEF base_link_material PBRAppearance {
+          baseColor 0.792160 0.819610 0.933330
+          roughness 1.000000
+          metalness 0
+        }
+        geometry DEF base_link Mesh {
+          url "C:/Users/User/Documents/University/Research_Project/URDF/sw/robotV2/robot/meshes/base_link.STL"
+        }
+      }
+      HingeJoint {
+        jointParameters HingeJointParameters {
+          axis 0.005847 0.999967 -0.005696
+          anchor -0.023910 0.098050 -0.016384
+        }
+        device [
+          RotationalMotor {
+            name "left_wheel_joint"
+            maxVelocity 29.321
+          }
+          PositionSensor {
+            name "left_wheel_joint_sensor"
+          }
+        ]
+        endPoint Solid {
+          translation -0.023910 0.098050 -0.016384
+          rotation 0.999991 -0.002940 -0.002923 1.565108
+          children [
+            Shape {
+              appearance DEF left_wheel_link_material PBRAppearance {
+                baseColor 0.501960 0.501960 0.501960
+                roughness 1.000000
+                metalness 0
+              }
+              geometry DEF left_wheel_link Mesh {
+                url "C:/Users/User/Documents/University/Research_Project/URDF/sw/robotV2/robot/meshes/left_wheel_link.STL"
+              }
+            }
+          ]
+          name "left_wheel_link"
+          boundingObject Pose {
+            translation 0 0 0.015
+            rotation 1 0 0 0
+            children [
+              Cylinder {
+                height 0.030
+                radius 0.0325
+              }
+            ]
+          }
+          physics Physics {
+            density -1
+            mass 0.060105
+            centerOfMass [ 0.000000 0.000000 0.015756 ]
+            inertiaMatrix [
+              2.465400e-05 2.465400e-05 4.132300e-05
+              6.155600e-21 1.312100e-20 1.191100e-21
+            ]
+          }
+        }
+      }
+      HingeJoint {
+        jointParameters HingeJointParameters {
+          axis 0.005847 0.999967 -0.005604
+          anchor -0.025056 -0.097943 -0.015277
+        }
+        device [
+          RotationalMotor {
+            name "right_wheel_joint"
+            maxVelocity 29.321
+          }
+          PositionSensor {
+            name "right_wheel_joint_sensor"
+          }
+        ]
+        endPoint Solid {
+          translation -0.025056 -0.097943 -0.015277
+          rotation -0.999992 0.002907 -0.002923 1.576409
+          children [
+            Shape {
+              appearance DEF right_wheel_link_material PBRAppearance {
+                baseColor 0.501960 0.501960 0.501960
+                roughness 1.000000
+                metalness 0
+              }
+              geometry DEF right_wheel_link Mesh {
+                url "C:/Users/User/Documents/University/Research_Project/URDF/sw/robotV2/robot/meshes/right_wheel_link.STL"
+              }
+            }
+          ]
+          name "right_wheel_link"
+          boundingObject Pose {
+            translation 0 0 0.015
+            rotation 1 0 0 0
+            children [
+              Cylinder {
+                height 0.030
+                radius 0.0325
+              }
+            ]
+          }
+          physics Physics {
+            density -1
+            mass 0.060105
+            centerOfMass [ -0.000000 0.000000 0.015756 ]
+            inertiaMatrix [
+              2.465400e-05 2.465400e-05 4.132300e-05
+              2.837100e-21 -7.457900e-21 -6.882100e-22
+            ]
+          }
+        }
+      }
+      Solid {
+        translation -0.004208 0.000733 0.125430
+        children [
+          Shape {
+            appearance DEF lidar_link_material PBRAppearance {
+              baseColor 0.792160 0.819610 0.933330
+              roughness 1.000000
+              metalness 0
+            }
+            geometry DEF lidar_link Mesh {
+              url "C:/Users/User/Documents/University/Research_Project/URDF/sw/robotV2/robot/meshes/lidar_link.STL"
+            }
+          }
+          Lidar{
+            name "lidar"
+            translation 0 0 0.00975
+            horizontalResolution 360
+            fieldOfView 6.28318
+            numberOfLayers 1
+            near 0.07
+            minRange 0.15
+            resolution 0.01
+            maxRange 12
+            defaultFrequency 5.5
+            noise 0.0043
+          }
+        ]
+        name "lidar_link"
+        boundingObject Pose {
+            translation 0 0 0.00975
+            rotation 1 0 0 0
+            children [
+              Cylinder {
+                height 0.0195
+                radius 0.035
+              }
+            ]
+          }
+        physics Physics {
+          density -1
+          mass 0.024196
+          centerOfMass [ -0.000875 0.000011 0.013905 ]
+          inertiaMatrix [
+            1.008400e-05 9.847400e-06 1.842500e-05
+            4.974400e-08 -3.217500e-07 4.471300e-08
+          ]
+        }
+      }
+      HingeJoint {
+        jointParameters HingeJointParameters {
+          axis 0.033529 -0.005842 -0.999420
+          anchor 0.076959 -0.000520 -0.012424
+        }
+        endPoint Solid {
+          translation 0.076959 -0.000520 -0.012424
+          children [
+            Shape {
+              appearance DEF castor_swivel_link_material PBRAppearance {
+                baseColor 0.792160 0.819610 0.933330
+                roughness 1.000000
+                metalness 0
+              }
+              geometry DEF castor_swivel_link Mesh {
+                url "C:/Users/User/Documents/University/Research_Project/URDF/sw/robotV2/robot/meshes/castor_swivel_link.STL"
+              }
+            }
+            HingeJoint {
+              jointParameters HingeJointParameters {
+                axis 0.027378 0.999613 -0.004904
+                anchor 0.012431 -0.006932 -0.018053
+              }
+              endPoint Solid {
+                translation 0.012431 -0.006932 -0.018053
+                rotation -0.999814 0.013622 -0.013689 1.575888
+                children [
+                  Shape {
+                    appearance DEF castor_wheel_link_material PBRAppearance {
+                      baseColor 0.501960 0.501960 0.501960
+                      roughness 1.000000
+                      metalness 0
+                    }
+                    geometry DEF castor_wheel_link Mesh {
+                      url "C:/Users/User/Documents/University/Research_Project/URDF/sw/robotV2/robot/meshes/castor_wheel_link.STL"
+                    }
+                  }
+                ]
+                name "castor_wheel_link"
+                boundingObject Pose {
+                  translation 0 0 0.0065
+                  rotation 1 0 0 0
+                  children [
+                    Cylinder {
+                      height 0.013
+                      radius 0.0125
+                    }
+                  ]
+                }
+                physics Physics {
+                  density -1
+                  mass 0.004038
+                  centerOfMass [ -0.000000 0.000000 0.006500 ]
+                  inertiaMatrix [
+                    2.239100e-07 2.239100e-07 3.637300e-07
+                    4.255800e-23 -9.780000e-24 -2.812400e-23
+                  ]
+                }
+              }
+            }
+          ]
+          name "castor_swivel_link"
+          physics Physics {
+            density -1
+            mass 0.002230
+            centerOfMass [ 0.006110 -0.000188 -0.004151 ]
+            inertiaMatrix [
+              2.495000e-07 2.293500e-07 2.511700e-07
+              -2.623800e-10 5.881100e-08 -1.503200e-09
+            ]
+          }
+        }
+      }
+      Accelerometer {
+        name "accelerometer"
+        translation 0.015 -0.012 0.060
+      }
+      Gyro {
+        name "gyro"
+        translation 0.015 -0.012 0.060
+      }
+      Compass {
+        name "compass"
+        translation 0.015 -0.012 0.060
+      }
+    ]
+    name IS name
+    boundingObject Group {
+      children [
+          Pose {
+            translation 0.0 0 0.075
+            children [
+              Box {
+                size 0.195 0.195 0.10
+              }
+            ]
+          }
+          Pose {
+            translation 0 0 0.05625
+            rotation 1 0 0 0
+            children [
+              Box {
+                size 0.190 0.130 0.1385
+              }
+            ]
+          }
+      ]}
+    physics Physics {
+      density -1
+      mass 1.0458
+      centerOfMass [ 0.000077 0.000281 0.045397 ]
+      inertiaMatrix [
+        2.522400e-03 2.693300e-03 2.935800e-03
+        1.057000e-06 -7.934100e-07 6.715900e-07
+      ]
+    }
+  }
+}

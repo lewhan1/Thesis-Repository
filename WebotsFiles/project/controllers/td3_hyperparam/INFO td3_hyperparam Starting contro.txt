@@ -1,0 +1,1532 @@
+INFO: td3_hyperparam: Starting controller: python.exe -u td3_hyperparam.py
+Gym has been unmaintained since 2022 and does not support NumPy 2.0 amongst other critical functionality.
+Please upgrade to Gymnasium, the maintained drop-in replacement of Gym, or contact the authors of your software and request that they upgrade.
+Users of this version of Gym should be able to simply replace 'import gym' with 'import gymnasium as gym' in the vast majority of cases.
+See the migration guide at https://gymnasium.farama.org/introduction/migration_guide/ for additional information.
+[I 2025-10-31 10:04:47,595] A new study created in memory with name: no-name-b44d5f31-8091-4768-9ca6-31393b7a14a3
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+[I 2025-10-31 10:14:21,729] Trial 0 finished with value: 24.21747666666667 and parameters: {'learning_rate': 0.0002279652744216973, 'gamma': 0.9922370516404482, 'tau': 0.03846478442754891, 'batch_size': 128, 'buffer_size': 100000, 'policy_delay': 3, 'action_noise_std': 0.2679144262718642}. Best is trial 0 with value: 24.21747666666667.
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+[I 2025-10-31 10:24:24,217] Trial 1 finished with value: 26.812967 and parameters: {'learning_rate': 6.701609496271262e-05, 'gamma': 0.9538783268851472, 'tau': 0.04345134438012389, 'batch_size': 256, 'buffer_size': 100000, 'policy_delay': 2, 'action_noise_std': 0.18686153343240153}. Best is trial 1 with value: 26.812967.
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+[I 2025-10-31 10:33:34,662] Trial 2 finished with value: 24.625449 and parameters: {'learning_rate': 0.0007292310518722664, 'gamma': 0.963048102625463, 'tau': 0.038302901353867276, 'batch_size': 256, 'buffer_size': 300000, 'policy_delay': 3, 'action_noise_std': 0.101367222375929}. Best is trial 1 with value: 26.812967.
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+[I 2025-10-31 10:50:39,924] Trial 3 finished with value: -0.755359 and parameters: {'learning_rate': 0.0025055513994783805, 'gamma': 0.9866853871461124, 'tau': 0.04649868116064544, 'batch_size': 512, 'buffer_size': 300000, 'policy_delay': 1, 'action_noise_std': 0.22844399357153394}. Best is trial 1 with value: 26.812967.
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+[I 2025-10-31 11:04:42,267] Trial 4 finished with value: -0.425849 and parameters: {'learning_rate': 0.0012065750394678692, 'gamma': 0.9938773044735613, 'tau': 0.0082720254412059, 'batch_size': 128, 'buffer_size': 100000, 'policy_delay': 3, 'action_noise_std': 0.20801833937204162}. Best is trial 1 with value: 26.812967.
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+[I 2025-10-31 11:10:54,994] Trial 5 pruned. 
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+[I 2025-10-31 11:15:11,610] Trial 6 pruned. 
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+[I 2025-10-31 11:21:11,292] Trial 7 pruned. 
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+[I 2025-10-31 11:25:35,612] Trial 8 pruned. 
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+[I 2025-10-31 11:36:38,658] Trial 9 pruned. 
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+[I 2025-10-31 11:45:17,778] Trial 10 finished with value: 5.475182 and parameters: {'learning_rate': 0.00039921811172065634, 'gamma': 0.9603697151275558, 'tau': 0.01912868076392188, 'batch_size': 256, 'buffer_size': 100000, 'policy_delay': 2, 'action_noise_std': 0.2316055420072103}. Best is trial 1 with value: 26.812967.
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+[I 2025-10-31 11:49:03,306] Trial 11 pruned. 
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+[I 2025-10-31 11:55:48,600] Trial 12 pruned. 
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+[I 2025-10-31 12:00:54,805] Trial 13 pruned. 
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+Episode finished due to obstacle proximity
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+[I 2025-10-31 12:07:40,157] Trial 14 pruned. 
+Error: only one Robot instance can be created per controller process.
+===== Best Trial =====
+Value (mean reward): 26.812967
+Params:
+  learning_rate: 6.701609496271262e-05
+  gamma: 0.9538783268851472
+  tau: 0.04345134438012389
+  batch_size: 256
+  buffer_size: 100000
+  policy_delay: 2
+  action_noise_std: 0.18686153343240153
+Using cuda device
+Wrapping the env in a DummyVecEnv.
+Traceback (most recent call last):

@@ -1,0 +1,19 @@
+#VRML_SIM R2025a utf8
+# Describe the functionality of your PROTO here.
+# template language: javascript
+
+
+PROTO Base_Link [
+  field SFVec3f translation 0 0 0
+  field SFRotation rotation 0 0 1 0
+  field SFString name "solid"
+  field SFNode physics NULL
+]
+{
+  Solid {
+    translation IS translation
+    rotation IS rotation
+    name IS name
+    physics IS physics
+  }
+}

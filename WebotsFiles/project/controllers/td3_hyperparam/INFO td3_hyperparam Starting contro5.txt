@@ -1,0 +1,28 @@
+New goal position: [-1.0590054  2.3640249]
+[I 2025-11-01 09:10:42,795] Trial 48 finished with value: 10.062273 and parameters: {'learning_rate': 0.0011366140536652589, 'gamma': 0.9680866359240008, 'tau': 0.028542703606989604, 'batch_size': 512, 'buffer_size': 100000, 'policy_delay': 1, 'action_noise_std': 0.23250587760278893}. Best is trial 15 with value: 19.850386666666665.
+New goal position: [-1.7772138 -1.7652631]
+Episode finished due to obstacle proximity
+New goal position: [1.4216691 2.1247778]
+New goal position: [-1.4611027  2.3410387]
+New goal position: [ 2.4789748 -1.6477417]
+New goal position: [ 0.10971095 -2.704558  ]
+New goal position: [ 2.686572   -0.44721624]
+New goal position: [ 2.3357806 -1.7107538]
+New goal position: [-2.851168    0.42293298]
+New goal position: [2.6897025 1.0918274]
+New goal position: [ 2.7284715  -0.28314647]
+[I 2025-11-01 09:14:49,842] Trial 49 pruned. 
+Error: only one Robot instance can be created per controller process.
+===== Best Trial =====
+Value (mean reward): 19.850386666666665
+Params:
+  learning_rate: 0.0004628428592135319
+  gamma: 0.9937617259134255
+  tau: 0.024242412216771324
+  batch_size: 256
+  buffer_size: 1000000
+  policy_delay: 1
+  action_noise_std: 0.20359378935314312
+Using cuda device
+Wrapping the env in a DummyVecEnv.
+Traceback (most recent call last):

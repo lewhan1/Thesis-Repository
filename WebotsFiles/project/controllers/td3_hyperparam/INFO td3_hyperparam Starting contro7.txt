@@ -1,0 +1,10 @@
+===== Best Trial =====
+Value (mean reward): 26.272822333333334
+Params:
+  learning_rate: 0.0012499858427332184
+  gamma: 0.9579809594575055
+  tau: 0.030688929748224143
+  batch_size: 64
+  buffer_size: 500000
+  policy_delay: 1
+  action_noise_std: 0.052698421892493644

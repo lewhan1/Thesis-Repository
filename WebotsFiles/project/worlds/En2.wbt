@@ -1,0 +1,126 @@
+#VRML_SIM R2025a utf8
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/backgrounds/protos/TexturedBackground.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/backgrounds/protos/TexturedBackgroundLight.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/floors/protos/RectangleArena.proto"
+EXTERNPROTO "../protos/Emaraldhorizons.proto"
+
+WorldInfo {
+}
+Viewpoint {
+  orientation -0.5191896563254637 0.5782333436869208 0.6293554647520672 1.9189017291479553
+  position 0.8248263332918843 -2.426116063432709 13.241020214901319
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  floorSize 4 4
+  floorTileSize 1 1
+  wallHeight 0.4
+}
+Solid {
+  translation -0.72 1.13 0.25
+  children [
+    DEF cyl Shape {
+      appearance PBRAppearance {
+        roughness 1
+        metalness 0
+      }
+      geometry Cylinder {
+        height 0.5
+        radius 0.12
+      }
+    }
+  ]
+  name "solid(4)"
+  boundingObject USE cyl
+}
+Solid {
+  translation 0.99 -1.1 0.25
+  children [
+    DEF cyl Shape {
+      appearance PBRAppearance {
+        roughness 1
+        metalness 0
+      }
+      geometry Cylinder {
+        height 0.5
+        radius 0.12
+      }
+    }
+  ]
+  name "solid(5)"
+  boundingObject USE cyl
+}
+Emaraldhorizons {
+  translation 0 0 0.05
+  controller "sac_supervisor_controller"
+  supervisor TRUE
+}
+Solid {
+  translation 0.12 0.45 0.25
+  children [
+    DEF wall Shape {
+      appearance PBRAppearance {
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.1 0.5
+      }
+    }
+  ]
+  boundingObject USE wall
+}
+Solid {
+  translation 0 -0.45 0.25
+  children [
+    DEF wall Shape {
+      appearance PBRAppearance {
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 1 0.1 0.5
+      }
+    }
+  ]
+  name "solid(1)"
+  boundingObject USE wall
+}
+Solid {
+  translation 1.24 7.34619e-08 0.25
+  rotation 0 0 1 1.5708
+  children [
+    DEF wall Shape {
+      appearance PBRAppearance {
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.1 0.5
+      }
+    }
+  ]
+  name "solid(2)"
+  boundingObject USE wall
+}
+Solid {
+  translation -1.05 -8.33802e-06 0.25
+  rotation 0 0 1 1.5708
+  children [
+    DEF wall Shape {
+      appearance PBRAppearance {
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 1 0.1 0.5
+      }
+    }
+  ]
+  name "solid(3)"
+  boundingObject USE wall
+}

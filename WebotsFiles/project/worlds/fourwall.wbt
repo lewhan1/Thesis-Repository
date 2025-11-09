@@ -1,0 +1,98 @@
+#VRML_SIM R2025a utf8
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/backgrounds/protos/TexturedBackground.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/backgrounds/protos/TexturedBackgroundLight.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/floors/protos/RectangleArena.proto"
+EXTERNPROTO "../protos/Emaraldhorizons.proto"
+
+WorldInfo {
+}
+Viewpoint {
+  orientation -0.5289524545227391 0.5382914396209257 0.6560881243287373 1.9642017577504163
+  position 0.5231637392051479 -1.62436037647642 8.394108168719663
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  floorSize 4 4
+  wallHeight 0.5
+}
+Emaraldhorizons {
+  translation 0 0 0.05
+  controller "td3_environmnet3"
+  supervisor TRUE
+}
+Solid {
+  translation 0 -1 0.25
+  rotation 0 0 -1 -5.307179586466759e-06
+  children [
+    DEF wall Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 1 0.06 0.5
+      }
+    }
+  ]
+  name "solid(3)"
+  boundingObject USE wall
+}
+Solid {
+  translation 1 0 0.25
+  rotation 0 0 1 1.5708
+  children [
+    DEF wall Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 1 0.06 0.5
+      }
+    }
+  ]
+  name "solid(2)"
+  boundingObject USE wall
+}
+Solid {
+  translation -1 0 0.25
+  rotation 0 0 1 1.5708
+  children [
+    DEF wall Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 1 0.06 0.5
+      }
+    }
+  ]
+  name "solid(4)"
+  boundingObject USE wall
+}
+Solid {
+  translation 0 1 0.25
+  rotation 0 0 1 1.01503e-06
+  children [
+    DEF wall Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 1 0.06 0.5
+      }
+    }
+  ]
+  name "solid(1)"
+  boundingObject USE wall
+}

@@ -1,0 +1,1881 @@
+[I 2025-10-31 13:12:17,268] A new study created in memory with name: no-name-ddc281a7-a604-4431-bce1-468c807b93a3
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+[I 2025-10-31 13:22:43,919] Trial 0 finished with value: 26.691296000000005 and parameters: {'learning_rate': 0.0018148549183126864, 'gamma': 0.9948533969484148, 'tau': 0.021367835064546762, 'batch_size': 512, 'buffer_size': 300000, 'policy_delay': 2, 'action_noise_std': 0.11502896686531609}. Best is trial 0 with value: 26.691296000000005.
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+[I 2025-10-31 13:30:22,620] Trial 1 finished with value: 35.044304 and parameters: {'learning_rate': 5.6486780800961295e-05, 'gamma': 0.9934525383701455, 'tau': 0.010564351623659325, 'batch_size': 64, 'buffer_size': 500000, 'policy_delay': 1, 'action_noise_std': 0.2117376520536411}. Best is trial 1 with value: 35.044304.
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+[I 2025-10-31 13:38:33,558] Trial 2 finished with value: 11.122192 and parameters: {'learning_rate': 0.00015831440149305032, 'gamma': 0.9769277336503572, 'tau': 0.005034976364658951, 'batch_size': 128, 'buffer_size': 300000, 'policy_delay': 2, 'action_noise_std': 0.1717656688537862}. Best is trial 1 with value: 35.044304.
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+[I 2025-10-31 13:46:01,246] Trial 3 finished with value: 7.022939 and parameters: {'learning_rate': 0.0007274151063761047, 'gamma': 0.988337019488692, 'tau': 0.019928072918534923, 'batch_size': 128, 'buffer_size': 500000, 'policy_delay': 2, 'action_noise_std': 0.24141173262238008}. Best is trial 1 with value: 35.044304.
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+[I 2025-10-31 13:52:27,024] Trial 4 finished with value: 26.016912 and parameters: {'learning_rate': 0.000756124842172643, 'gamma': 0.9683435150362781, 'tau': 0.010077245387412972, 'batch_size': 64, 'buffer_size': 100000, 'policy_delay': 3, 'action_noise_std': 0.2811348135532929}. Best is trial 1 with value: 35.044304.
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+[I 2025-10-31 14:00:13,924] Trial 5 pruned. 
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+[I 2025-10-31 14:08:42,603] Trial 6 finished with value: 7.274758000000001 and parameters: {'learning_rate': 4.252567504575431e-05, 'gamma': 0.9991581330313617, 'tau': 0.03785140014723738, 'batch_size': 64, 'buffer_size': 500000, 'policy_delay': 1, 'action_noise_std': 0.20570796550889683}. Best is trial 1 with value: 35.044304.
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+[I 2025-10-31 14:12:02,314] Trial 7 pruned. 
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+[I 2025-10-31 14:21:26,843] Trial 8 finished with value: 35.049308 and parameters: {'learning_rate': 8.998472456792337e-05, 'gamma': 0.9673713268907941, 'tau': 0.01532842804749859, 'batch_size': 512, 'buffer_size': 100000, 'policy_delay': 3, 'action_noise_std': 0.29890485174038695}. Best is trial 8 with value: 35.049308.
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+[I 2025-10-31 14:26:38,598] Trial 9 pruned. 
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+[I 2025-10-31 14:36:02,523] Trial 10 finished with value: 25.971639999999997 and parameters: {'learning_rate': 0.00010391660950286407, 'gamma': 0.9511191330089852, 'tau': 0.030825505804804938, 'batch_size': 512, 'buffer_size': 100000, 'policy_delay': 3, 'action_noise_std': 0.25082083166748526}. Best is trial 8 with value: 35.049308.
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+[I 2025-10-31 14:40:13,736] Trial 11 pruned. 
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+[I 2025-10-31 14:43:50,777] Trial 12 pruned. 
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+[I 2025-10-31 14:53:05,169] Trial 13 pruned. 
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+[I 2025-10-31 14:56:59,154] Trial 14 pruned. 
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+[I 2025-10-31 15:09:52,829] Trial 15 finished with value: 26.33708 and parameters: {'learning_rate': 0.000563717952422824, 'gamma': 0.9771172343018124, 'tau': 0.026494744187219272, 'batch_size': 512, 'buffer_size': 500000, 'policy_delay': 3, 'action_noise_std': 0.2729554587120627}. Best is trial 8 with value: 35.049308.
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Collision detected
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+Reached goal!
+New goal position: [3. 2.]
+[I 2025-10-31 15:18:19,238] Trial 16 finished with value: 35.027564 and parameters: {'learning_rate': 9.090401405632203e-05, 'gamma': 0.9897852335028023, 'tau': 0.009859054476460103, 'batch_size': 128, 'buffer_size': 300000, 'policy_delay': 1, 'action_noise_std': 0.17328130894618102}. Best is trial 8 with value: 35.049308.
+Error: only one Robot instance can be created per controller process.
+===== Best Trial =====
+Value (mean reward): 35.049308
+Params:
+  learning_rate: 8.998472456792337e-05
+  gamma: 0.9673713268907941
+  tau: 0.01532842804749859
+  batch_size: 512
+  buffer_size: 100000
+  policy_delay: 3
+  action_noise_std: 0.29890485174038695
+Using cuda device
+Wrapping the env in a DummyVecEnv.

@@ -1,0 +1,239 @@
+#VRML_SIM R2025a utf8
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/backgrounds/protos/TexturedBackground.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/backgrounds/protos/TexturedBackgroundLight.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/floors/protos/RectangleArena.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/factory/containers/protos/WoodenBox.proto"
+EXTERNPROTO "../protos/Emaraldhorizons.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/appearances/protos/Parquetry.proto"
+
+WorldInfo {
+}
+Viewpoint {
+  orientation 0.542102305894593 -0.5756346481310287 -0.6121844834809455 4.212953627988874
+  position 1.9035514018565074 -2.3814156440827547 29.501877751633824
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  floorSize 8 8
+  floorAppearance Parquetry {
+  }
+  wallHeight 0.5
+}
+Solid {
+  translation -0.97 0 0.5
+  children [
+    DEF wall1 Shape {
+      appearance PBRAppearance {
+      }
+      geometry Box {
+        size 0.3 0.3 1
+      }
+    }
+  ]
+  boundingObject USE wall1
+}
+Solid {
+  translation -0.54 1.59 0.5
+  children [
+    DEF wall1 Shape {
+      appearance PBRAppearance {
+      }
+      geometry Box {
+        size 0.3 0.3 1
+      }
+    }
+  ]
+  name "solid(1)"
+  boundingObject USE wall1
+}
+Solid {
+  translation 0.23 2.28 0.5
+  children [
+    DEF wall1 Shape {
+      appearance PBRAppearance {
+      }
+      geometry Box {
+        size 0.3 0.3 1
+      }
+    }
+  ]
+  name "solid(11)"
+  boundingObject USE wall1
+}
+Solid {
+  translation -1.97 1.59 0.5
+  children [
+    DEF wall1 Shape {
+      appearance PBRAppearance {
+      }
+      geometry Box {
+        size 0.3 0.3 1
+      }
+    }
+  ]
+  name "solid(7)"
+  boundingObject USE wall1
+}
+Solid {
+  translation 0.354849 -1.13851 0.5
+  rotation 0 0 1 4.692820414042842e-06
+  children [
+    DEF wall1 Shape {
+      appearance PBRAppearance {
+      }
+      geometry Box {
+        size 0.3 0.3 1
+      }
+    }
+  ]
+  name "solid(2)"
+  boundingObject USE wall1
+}
+Solid {
+  translation -2.30515 -1.13851 0.5
+  rotation 0 0 1 4.692820414042842e-06
+  children [
+    DEF wall1 Shape {
+      appearance PBRAppearance {
+      }
+      geometry Box {
+        size 0.3 0.3 1
+      }
+    }
+  ]
+  name "solid(6)"
+  boundingObject USE wall1
+}
+Solid {
+  translation 2.02814 0.00478956 0.5
+  rotation 0 0 -1 -1.5707953071795862
+  children [
+    DEF wall1 Shape {
+      appearance PBRAppearance {
+      }
+      geometry Box {
+        size 0.3 0.3 1
+      }
+    }
+  ]
+  name "solid(3)"
+  boundingObject USE wall1
+}
+Solid {
+  translation 3.04814 0.89479 0.5
+  rotation 0 0 -1 -1.5707953071795862
+  children [
+    DEF wall1 Shape {
+      appearance PBRAppearance {
+      }
+      geometry Box {
+        size 0.3 0.3 1
+      }
+    }
+  ]
+  name "solid(12)"
+  boundingObject USE wall1
+}
+Solid {
+  translation -0.98186 -1.96521 0.5
+  rotation 0 0 -1 -1.5707953071795862
+  children [
+    DEF wall1 Shape {
+      appearance PBRAppearance {
+      }
+      geometry Box {
+        size 0.3 0.3 1
+      }
+    }
+  ]
+  name "solid(4)"
+  boundingObject USE wall1
+}
+Solid {
+  translation 1.58814 2.13479 0.5
+  rotation 0 0 -1 -1.5707953071795862
+  children [
+    DEF wall1 Shape {
+      appearance PBRAppearance {
+      }
+      geometry Box {
+        size 0.3 0.3 1
+      }
+    }
+  ]
+  name "solid(5)"
+  boundingObject USE wall1
+}
+Solid {
+  translation 0.94814 0.99479 0.5
+  rotation 0 0 -1 -1.5707953071795862
+  children [
+    DEF wall1 Shape {
+      appearance PBRAppearance {
+      }
+      geometry Box {
+        size 0.3 0.3 1
+      }
+    }
+  ]
+  name "solid(10)"
+  boundingObject USE wall1
+}
+Solid {
+  translation -2.44186 0.38479 0.5
+  rotation 0 0 -1 -1.5707953071795862
+  children [
+    DEF wall1 Shape {
+      appearance PBRAppearance {
+      }
+      geometry Box {
+        size 0.3 0.3 1
+      }
+    }
+  ]
+  name "solid(13)"
+  boundingObject USE wall1
+}
+Solid {
+  translation 1.58814 -2.72521 0.5
+  rotation 0 0 -1 -1.5707953071795862
+  children [
+    DEF wall1 Shape {
+      appearance PBRAppearance {
+      }
+      geometry Box {
+        size 0.3 0.3 1
+      }
+    }
+  ]
+  name "solid(8)"
+  boundingObject USE wall1
+}
+Solid {
+  translation 1.58814 -1.52521 0.5
+  rotation 0 0 -1 -1.5707953071795862
+  children [
+    DEF wall1 Shape {
+      appearance PBRAppearance {
+      }
+      geometry Box {
+        size 0.3 0.3 1
+      }
+    }
+  ]
+  name "solid(9)"
+  boundingObject USE wall1
+}
+WoodenBox {
+  translation 1.5 2.5 1
+  name "wooden box(2)"
+  size 0.1 0.1 0.1
+}
+Emaraldhorizons {
+  controller "rl_supervisor_controller"
+  supervisor TRUE
+}

@@ -1,0 +1,15 @@
+[I 2025-11-02 04:44:16,380] Trial 28 pruned. 
+Error: only one Robot instance can be created per controller process.
+===== Best Trial =====
+Value (mean reward): 19.340529333333333
+Params:
+  learning_rate: 0.0002240264841134374
+  gamma: 0.9601519358007523
+  tau: 0.01554519708431153
+  batch_size: 256
+  buffer_size: 100000
+  policy_delay: 2
+  action_noise_std: 0.06465554646462991
+Using cuda device
+Wrapping the env in a DummyVecEnv.
+T

@@ -1,0 +1,1004 @@
+#VRML_SIM R2025a utf8
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/backgrounds/protos/TexturedBackground.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/backgrounds/protos/TexturedBackgroundLight.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/floors/protos/RectangleArena.proto"
+EXTERNPROTO "../protos/Emaraldhorizons.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/appearances/protos/Parquetry.proto"
+
+WorldInfo {
+}
+Viewpoint {
+  orientation -0.48274019679520014 0.5049680571840683 0.7155202049012166 1.8565606658945326
+  position 1.2248920299022112 -6.0476739809191695 14.8690485141445
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  floorSize 10 10
+  floorAppearance Parquetry {
+    type "light strip"
+  }
+  wallHeight 0.6
+}
+Emaraldhorizons {
+  translation 0 0 0.05
+  controller "td3_environmnet3"
+  supervisor TRUE
+}
+Solid {
+  translation -1.14 0.46 0.25
+  children [
+    DEF wal2 Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  boundingObject USE wal2
+}
+Solid {
+  translation -1.73 0.57 0.25
+  children [
+    DEF wal2 Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(42)"
+  boundingObject USE wal2
+}
+Solid {
+  translation -1.44 2.87 0.25
+  children [
+    DEF wal2 Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(19)"
+  boundingObject USE wal2
+}
+Solid {
+  translation -2.28 -2.43 0.25
+  children [
+    DEF wal2 Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(17)"
+  boundingObject USE wal2
+}
+Solid {
+  translation -2.95 -1.91 0.25
+  rotation 0 0 1 1.5708
+  children [
+    DEF wal2 Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(58)"
+  boundingObject USE wal2
+}
+Solid {
+  translation -1.85 -2.43 0.25
+  children [
+    DEF wal2 Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(57)"
+  boundingObject USE wal2
+}
+Solid {
+  translation -2.11 1.25 0.25
+  children [
+    DEF wal2 Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(8)"
+  boundingObject USE wal2
+}
+Solid {
+  translation -1.9046 1.4607 0.21
+  rotation 0 0 1 1.8326
+  children [
+    DEF wal2 Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(11)"
+  boundingObject USE wal2
+}
+Solid {
+  translation -3.03 0.74 0.25
+  rotation 0 0 1 1.5708
+  children [
+    DEF wal2 Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(18)"
+  boundingObject USE wal2
+}
+Solid {
+  translation -2.8299 2.105 0.25
+  rotation 0 0 -1 -1.0472053071795866
+  children [
+    DEF wal2 Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(59)"
+  boundingObject USE wal2
+}
+Solid {
+  translation -2.29 -0.42 0.25
+  children [
+    DEF wal2 Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(3)"
+  boundingObject USE wal2
+}
+Solid {
+  translation 0.67 1.04 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(2)"
+  boundingObject USE wal2
+}
+Solid {
+  translation 2.91 0.71 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(15)"
+  boundingObject USE wal2
+}
+Solid {
+  translation 1.83706 1.6983 0.25
+  rotation 0 0 1 1.0472
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(50)"
+  boundingObject USE wal2
+}
+Solid {
+  translation 2.91 2.66 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(32)"
+  boundingObject USE wal2
+}
+Solid {
+  translation 3.04 -1.78 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(21)"
+  boundingObject USE wal2
+}
+Solid {
+  translation 3.04 -1.3 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(47)"
+  boundingObject USE wal2
+}
+Solid {
+  translation 2.17 -1.52 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(39)"
+  boundingObject USE wal2
+}
+Solid {
+  translation 2.24804 1.79718 0.25
+  rotation 0 0 1 1.38733e-06
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(20)"
+  boundingObject USE wal2
+}
+Solid {
+  translation -0.42 1.9 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(4)"
+  boundingObject USE wal2
+}
+Solid {
+  translation -0.01 1.01 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(51)"
+  boundingObject USE wal2
+}
+Solid {
+  translation -1.02 1.51 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(35)"
+  boundingObject USE wal2
+}
+Solid {
+  translation -0.575562 2.30554 0.25
+  rotation 0 0 -1 0.785397
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(22)"
+  boundingObject USE wal2
+}
+Solid {
+  translation 0.88 -0.76 0.25
+  rotation 0 0 1 3.14159
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(5)"
+  boundingObject USE wal2
+}
+Solid {
+  translation 0.14 -1.73 0.25
+  rotation 0 0 1 3.14159
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(12)"
+  boundingObject USE wal2
+}
+Solid {
+  translation 0.9 1.24 0.25
+  rotation 0 0 1 3.14159
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(9)"
+  boundingObject USE wal2
+}
+Solid {
+  translation 1.9883 0.458107 0.25
+  rotation 0 0 -1 -2.6179953071795863
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(1)"
+  boundingObject USE wal2
+}
+Solid {
+  translation 1.51 2.84 0.25
+  rotation 0 0 1 3.14159
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(16)"
+  boundingObject USE wal2
+}
+Solid {
+  translation 1.51 2.84 0.25
+  rotation 0 0 -1 -1.5707953071795862
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(38)"
+  boundingObject USE wal2
+}
+Solid {
+  translation 1.41 -0.76 0.25
+  rotation 0 0 1 3.14159
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(13)"
+  boundingObject USE wal2
+}
+Solid {
+  translation 1.28 -2.38 0.25
+  rotation 0 0 1 3.14159
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(14)"
+  boundingObject USE wal2
+}
+Solid {
+  translation 0.99 -2.38 0.25
+  rotation 0 0 1 3.14159
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(45)"
+  boundingObject USE wal2
+}
+Solid {
+  translation 0.38 -1.72 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(44)"
+  boundingObject USE wal2
+}
+Solid {
+  translation 2.66 -2.57 0.25
+  rotation 0 0 1 3.14159
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(40)"
+  boundingObject USE wal2
+}
+Solid {
+  translation 2.98304 -0.325159 0.25
+  rotation 0 0 -1 -2.8797953071795863
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(46)"
+  boundingObject USE wal2
+}
+Solid {
+  translation -1.14069 -0.636696 0.25
+  rotation 0 0 1 -2.094395307179586
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(6)"
+  boundingObject USE wal2
+}
+Solid {
+  translation -2.05 -0.67 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(10)"
+  boundingObject USE wal2
+}
+Solid {
+  translation -0.0999999 -1.97 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(7)"
+  boundingObject USE wal2
+}
+Solid {
+  translation -0.1 -0.89 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.5 0.05 0.5
+      }
+    }
+  ]
+  name "solid(33)"
+  boundingObject USE wal2
+}
+Solid {
+  translation -0.82 -2.15 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    DEF box Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.25 0.25 0.5
+      }
+    }
+  ]
+  name "solid(23)"
+  boundingObject USE box
+}
+Solid {
+  translation -1.81324 -1.61938 0.25
+  rotation 0 0 1 0.5236
+  children [
+    DEF box Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.25 0.25 0.5
+      }
+    }
+  ]
+  name "solid(41)"
+  boundingObject USE box
+}
+Solid {
+  translation 1.04546 0.116244 0.25
+  rotation 0 0 -1 0.523598
+  children [
+    DEF box Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.25 0.25 0.5
+      }
+    }
+  ]
+  name "solid(31)"
+  boundingObject USE box
+}
+Solid {
+  translation -2.57 2.45 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    DEF box Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.25 0.25 0.5
+      }
+    }
+  ]
+  name "solid(24)"
+  boundingObject USE box
+}
+Solid {
+  translation 1.03 2.09 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    DEF box Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 0.25 0.25 0.5
+      }
+    }
+  ]
+  name "solid(25)"
+  boundingObject USE box
+}
+Solid {
+  translation -0.78 -1.27 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    DEF cylinder Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Cylinder {
+        height 0.5
+        radius 0.05
+      }
+    }
+  ]
+  name "solid(55)"
+  boundingObject USE cylinder
+}
+Solid {
+  translation -2.53 0.14 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    DEF cylinder Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Cylinder {
+        height 0.5
+        radius 0.05
+      }
+    }
+  ]
+  name "solid(60)"
+  boundingObject USE cylinder
+}
+Solid {
+  translation -1.58 2.27 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    DEF cylinder Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Cylinder {
+        height 0.5
+        radius 0.1
+      }
+    }
+  ]
+  name "solid(36)"
+  boundingObject USE cylinder
+}
+Solid {
+  translation 1.1 -1.59 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    DEF cylinder Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Cylinder {
+        height 0.5
+        radius 0.1
+      }
+    }
+  ]
+  name "solid(27)"
+  boundingObject USE cylinder
+}
+Solid {
+  translation 2.37 1.2 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    DEF cylinder Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Cylinder {
+        height 0.5
+        radius 0.1
+      }
+    }
+  ]
+  name "solid(48)"
+  boundingObject USE cylinder
+}
+Solid {
+  translation -2.91 -1.1 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    DEF cylinder Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Cylinder {
+        height 0.5
+        radius 0.1
+      }
+    }
+  ]
+  name "solid(28)"
+  boundingObject USE cylinder
+}
+Solid {
+  translation 2.65 -0.25 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    DEF cylinder Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Cylinder {
+        height 0.5
+        radius 0.1
+      }
+    }
+  ]
+  name "solid(29)"
+  boundingObject USE cylinder
+}
+Solid {
+  translation 1.92 1.83 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    DEF cylinder Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Cylinder {
+        height 0.5
+        radius 0.1
+      }
+    }
+  ]
+  name "solid(37)"
+  boundingObject USE cylinder
+}
+Solid {
+  translation 0.12 2.9 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    DEF cylinder Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Cylinder {
+        height 0.5
+        radius 0.1
+      }
+    }
+  ]
+  name "solid(30)"
+  boundingObject USE cylinder
+}
+Solid {
+  translation -0.05 2.9 0.25
+  rotation 0 0 1 -1.5707953071795862
+  children [
+    DEF cylinder Shape {
+      appearance PBRAppearance {
+        baseColor 0.235294 0 0
+        roughness 1
+        metalness 0
+      }
+      geometry Cylinder {
+        height 0.5
+        radius 0.1
+      }
+    }
+  ]
+  name "solid(52)"
+  boundingObject USE cylinder
+}
